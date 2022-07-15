@@ -1,1 +1,1 @@
-\\isi.bigdata.weizmann.ac.il\nih\nih-elda-var
+\\isi.bigdata.weizmann.ac.il\projects\yonina
